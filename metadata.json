@@ -1,0 +1,6 @@
+{
+  "name": "MLBB Draft Coach",
+  "description": "Desktop Ranked draft simulator and coaching engine for Mobile Legends: Bang Bang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

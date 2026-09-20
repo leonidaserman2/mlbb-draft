@@ -1,0 +1,9 @@
+{
+  "patch": "2.2.16",
+  "season": "42",
+  "lastVerified": "2026-09-20",
+  "serverTarget": "Original Server",
+  "totalVerifiedHeroes": 133,
+  "latestReleasedHero": "Hirara",
+  "unreleasedAdvanceServerExcluded": ["Dori"]
+}
